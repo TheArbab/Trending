@@ -239,8 +239,8 @@ def menu():
 	print "   \033[1;36;40m      ║\033[1;32;40m[《•》] ID  \033[1;34;40m: "+id+"    \033[1;36;40m║"
 	print "   \033[1;36;40m      ║\033[1;32;40m[《•》] Subs\033[1;34;40m: "+sub+"                  \033[1;36;40m║"
 	print "   \033[1;36;40m      ╚═════════════════════════════════╝"
-	print "\033[1;32;98m[1] \033[1;96mStart Cloning"																														
-	print "\033[1;32;98m[0] \033[1;96mLog out"
+	print "\033[1;32;98m[1] \033[1;96mStart Attack On faceboom"																														
+	print "\033[1;32;98m[0] \033[1;96mLog out dafa hone ka"
 	pilih()
 
 def pilih():
